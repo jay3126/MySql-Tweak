@@ -1,0 +1,12 @@
+This is my first repository which I am pushing on Git.
+File my.cnf contains the tweaks for MySql to make it faster.
+
+All you need to do is to clone my reporsitory on your system and then go to folder /etc/mysql/
+There you'll find your systems my.cnf file. Just rename your system exixting my.cnf file to my.cnf.old and then copy the my.cnf file from MySql-Tweak to this folder.
+That's it! 
+Your are done.
+
+All the Best!
+
+Cheers,
+Janmejay Rai
